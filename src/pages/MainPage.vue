@@ -10,6 +10,8 @@
       <ul>
         <li><router-link to="/persona-4-golden-guide">Persona</router-link></li>
         <li><router-link to="/poketcgplayground">PokeTCG Playground</router-link></li>
+        <li><router-link to="/hydra-prime">Hydra Prime</router-link></li>
+        <li><router-link to="/eureka">Eureka</router-link></li>
         <!-- // New Pens get added here to home -->
         <!-- <li><router-link to="/new-pen">New Pen</router-link></li> -->
       </ul>

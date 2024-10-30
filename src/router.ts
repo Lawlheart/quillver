@@ -16,6 +16,16 @@ const routes = [
     name: 'PokeTCG',
     component: () => import('./../pens/poketcgplayground/src/script.vue')
   },
+  {
+    path: '/hydra-prime',
+    name: 'Hydra Prime',
+    component: () => import('./../pens/hydra-prime/src/script.vue')
+  },
+  {
+    path: '/eureka',
+    name: 'Eureka',
+    component: () => import('./../pens/eureka/src/script.vue')
+  },
   // New Pens get added here to routing
   // {
   //   path: '/new-pen',
